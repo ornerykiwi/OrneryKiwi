@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Charisma. 
 - 👀 I’m interested in full stack development, especially in FinTech. 
 - 🌱 I’m currently learning React.js && how to rollerskate!
-- 📫 How to reach me: actuallycharisma@outlook.com || My LinkedIn
+- 📫 How to reach me: actuallycharisma@outlook.com || https://www.linkedin.com/in/charisma-khawaja-b03919192/
 - ⚡ Fun fact: I was a silver medalist for the british national taekwondo championship in 2015 :)
 
 <!---
